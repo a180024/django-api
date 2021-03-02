@@ -1,5 +1,5 @@
 # Description
-> Sample project to accept file uploads and calculate sensitivity score on a cron schedule based on keywords 
+> Assessment to accept file uploads and calculate sensitivity score on a cron schedule based on keywords 
 
 1. Authentication
 - Handled by Djoser 
